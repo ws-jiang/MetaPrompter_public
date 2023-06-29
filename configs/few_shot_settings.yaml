@@ -1,0 +1,29 @@
+5way1shot:
+  way:
+    train: 5
+    test: 5
+    valid: 5
+  shot:
+    support:
+      train: 1
+      valid: 1
+      test: 1
+    query:
+      train: 15  # 5 or 15, depends on GPU memory, e.g., 5 for v100 32G; 15 for A100 80G
+      valid: 15  # 5 or 15
+      test: 15  # 5 or 15
+
+5way5shot:
+  way:
+    train: 5
+    test: 5
+    valid: 5
+  shot:
+    support:
+      train: 5
+      valid: 5
+      test: 5
+    query:
+      train: 15  # 5 or 15
+      valid: 15  # 5 or 15
+      test: 15  # 5 or 15

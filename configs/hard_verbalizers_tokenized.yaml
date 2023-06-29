@@ -1,0 +1,680 @@
+Amazon:
+  0:
+  - amazon
+  - instant
+  - video
+  1:
+  - apps
+  - android
+  2:
+  - automotive
+  3:
+  - baby
+  4:
+  - beauty
+  5:
+  - books
+  6:
+  - cds
+  - vinyl
+  7:
+  - cell
+  - phones
+  - accessories
+  8:
+  - clothing
+  - shoes
+  - jewelry
+  9:
+  - digital
+  - music
+  10:
+  - electronics
+  11:
+  - grocery
+  - food
+  12:
+  - health
+  - personal
+  - care
+  13:
+  - home
+  - kitchen
+  14:
+  - book
+  - store
+  15:
+  - movies
+  - tv
+  16:
+  - musical
+  - instruments
+  17:
+  - office
+  - products
+  18:
+  - patio
+  - lawn
+  - garden
+  19:
+  - pet
+  - supplies
+  20:
+  - sports
+  - outdoors
+  21:
+  - tools
+  - home
+  - improvement
+  22:
+  - toys
+  - games
+  23:
+  - video
+  - games
+HuffPost:
+  0:
+  - politics
+  1:
+  - wellness
+  2:
+  - entertainment
+  3:
+  - travel
+  - trip
+  4:
+  - style
+  - beauty
+  5:
+  - parenting
+  6:
+  - healthy
+  - living
+  7:
+  - queer
+  - voices
+  8:
+  - food
+  - drink
+  9:
+  - business
+  - company
+  10:
+  - comedy
+  11:
+  - sports
+  12:
+  - black
+  - voices
+  13:
+  - home
+  - living
+  14:
+  - parents
+  15:
+  - world
+  - post
+  16:
+  - weddings
+  17:
+  - women
+  18:
+  - impact
+  19:
+  - divorce
+  20:
+  - crime
+  21:
+  - media
+  22:
+  - weird
+  - news
+  23:
+  - green
+  24:
+  - world
+  - post
+  25:
+  - religion
+  26:
+  - style
+  27:
+  - science
+  28:
+  - world
+  - news
+  29:
+  - taste
+  30:
+  - tech
+  - technology
+  31:
+  - money
+  32:
+  - arts
+  33:
+  - fifty
+  34:
+  - good
+  - news
+  35:
+  - arts
+  - culture
+  36:
+  - environment
+  37:
+  - college
+  - university
+  - school
+  38:
+  - latino
+  - voices
+  39:
+  - culture
+  - arts
+  40:
+  - education
+Hwu64:
+  0:
+  - explain
+  1:
+  - recommendation
+  - events
+  - recommend
+  - event
+  2:
+  - order
+  3:
+  - alarm
+  - query
+  4:
+  - query
+  5:
+  - electronics
+  6:
+  - weather
+  - query
+  7:
+  - social
+  - post
+  8:
+  - play
+  - radio
+  9:
+  - unusual
+  - abnormal
+  10:
+  - play
+  - audio
+  11:
+  - hue
+  - light
+  - 'off'
+  12:
+  - transport
+  - transportation
+  - query
+  13:
+  - play
+  - music
+  14:
+  - news
+  - query
+  15:
+  - transport
+  - taxi
+  16:
+  - cooking
+  - recipe
+  17:
+  - lists
+  - query
+  18:
+  - fact
+  - reality
+  19:
+  - email
+  - send
+  20:
+  - joke
+  21:
+  - audio
+  - volume
+  - down
+  22:
+  - repeat
+  23:
+  - recommendation
+  - recommend
+  - locations
+  - location
+  24:
+  - music
+  - likeness
+  25:
+  - music
+  - settings
+  26:
+  - email
+  - query
+  27:
+  - hue
+  - light
+  - 'on'
+  28:
+  - audio
+  - volume
+  - up
+  29:
+  - hue
+  - light
+  - change
+  30:
+  - cleaning
+  - clean
+  31:
+  - music
+  - query
+  32:
+  - confirm
+  33:
+  - alarm
+  - set
+  34:
+  - chat
+  - 'off'
+  35:
+  - transport
+  - transportation
+  - traffic
+  36:
+  - currency
+  37:
+  - command
+  - stop
+  38:
+  - hue
+  - light
+  - up
+  39:
+  - coffee
+  40:
+  - praise
+  41:
+  - date
+  - time
+  - query
+  42:
+  - definition
+  - define
+  43:
+  - calendar
+  - set
+  44:
+  - ask
+  - math
+  45:
+  - confirmation
+  - confirm
+  46:
+  - deny
+  47:
+  - stock
+  - savings
+  - question
+  48:
+  - calendar
+  - remove
+  49:
+  - lists
+  - remove
+  50:
+  - recommendation
+  - recommend
+  - movies
+  - movie
+  51:
+  - email
+  - query
+  - contact
+  52:
+  - hue
+  - light
+  - dim
+  53:
+  - play
+  - podcast
+  54:
+  - lists
+  - create
+  - add
+  55:
+  - transport
+  - ticket
+  56:
+  - email
+  - add
+  - contact
+  57:
+  - audio
+  - volume
+  - mute
+  58:
+  - play
+  - game
+  59:
+  - neutral
+  60:
+  - calendar
+  - query
+  61:
+  - alarm
+  - remove
+  62:
+  - social
+  - query
+  63:
+  - date
+  - '##time'
+  - convert
+Liu54:
+  0:
+  - coffee
+  1:
+  - music
+  2:
+  - unusual
+  - abnormal
+  3:
+  - radio
+  4:
+  - do
+  - not
+  - care
+  5:
+  - hue
+  - light
+  - change
+  6:
+  - fact
+  7:
+  - create
+  - add
+  8:
+  - movies
+  - movie
+  9:
+  - repeat
+  10:
+  - confirm
+  11:
+  - stock
+  12:
+  - order
+  13:
+  - convert
+  14:
+  - volume
+  - down
+  15:
+  - locations
+  - location
+  16:
+  - add
+  - contact
+  17:
+  - joke
+  - fun
+  18:
+  - post
+  - mail
+  19:
+  - traffic
+  - transport
+  20:
+  - events
+  - event
+  21:
+  - settings
+  - setting
+  22:
+  - dislike
+  23:
+  - podcast
+  - digital
+  - audio
+  24:
+  - query
+  25:
+  - volume
+  - mute
+  26:
+  - electronics
+  - 'off'
+  27:
+  - deny
+  28:
+  - hue
+  - light
+  - up
+  29:
+  - game
+  30:
+  - greet
+  31:
+  - set
+  32:
+  - volume
+  - up
+  33:
+  - hue
+  - light
+  - 'off'
+  34:
+  - definition
+  - define
+  35:
+  - taxi
+  36:
+  - currency
+  37:
+  - hue
+  - light
+  - dim
+  38:
+  - confirm
+  39:
+  - command
+  - stop
+  40:
+  - send
+  - email
+  41:
+  - remote
+  - control
+  42:
+  - cleaning
+  - clean
+  43:
+  - remove
+  44:
+  - hue
+  - light
+  - 'on'
+  45:
+  - ticket
+  46:
+  - volume
+  47:
+  - audio
+  - book
+  48:
+  - query
+  49:
+  - recipe
+  - menu
+  50:
+  - math
+  51:
+  - praise
+  52:
+  - explain
+  - illustrate
+  53:
+  - likeness
+  - similarity
+  - resemblance
+News20:
+  0:
+  - politics
+  - middle
+  - eastern
+  - wars
+  1:
+  - science
+  - space
+  2:
+  - sale
+  - business
+  - marketing
+  3:
+  - politics
+  - others
+  4:
+  - computer
+  - graphics
+  5:
+  - science
+  - crypt
+  - encryption
+  6:
+  - computer
+  - windows
+  - system
+  7:
+  - computer
+  - os
+  - ms
+  - windows
+  - system
+  8:
+  - politics
+  - guns
+  9:
+  - religion
+  10:
+  - recreation
+  - auto
+  - automobiles
+  - car
+  11:
+  - science
+  - medicine
+  - treatment
+  12:
+  - computer
+  - mac
+  - hardware
+  - system
+  13:
+  - science
+  - electronics
+  - circuits
+  14:
+  - recreation
+  - sports
+  - hockey
+  15:
+  - skepticism
+  - atheist
+  16:
+  - recreation
+  - motorcycles
+  17:
+  - computer
+  - system
+  - ibm
+  - pc
+  - hardware
+  18:
+  - recreation
+  - sports
+  - baseball
+  19:
+  - society
+  - religion
+  - christian
+  - christianity
+Reuters:
+  0:
+  - acquisitions
+  1:
+  - aluminum
+  2:
+  - bop
+  3:
+  - cocoa
+  4:
+  - coffee
+  5:
+  - copper
+  6:
+  - cotton
+  7:
+  - cpi
+  8:
+  - crude
+  9:
+  - earn
+  10:
+  - gross
+  - national
+  - product
+  11:
+  - gold
+  12:
+  - grain
+  13:
+  - interest
+  14:
+  - industrial
+  - production
+  - index
+  15:
+  - iron
+  - steel
+  16:
+  - jobs
+  17:
+  - livestock
+  18:
+  - money
+  - fx
+  19:
+  - money
+  - supply
+  20:
+  - nat
+  - gas
+  21:
+  - orange
+  22:
+  - reserves
+  23:
+  - retail
+  24:
+  - rubber
+  25:
+  - ship
+  26:
+  - sugar
+  27:
+  - tin
+  28:
+  - trade
+  29:
+  - oil
+  30:
+  - wholesale
+  - price
+  - index

@@ -1,0 +1,21 @@
+info_log_freq: 50
+debug_log_freq: 10
+
+max_not_impr_cnt: 3
+
+num_workers: 2
+
+
+num_iteration:
+  train: 4000
+  valid: 200
+  test: 300
+
+meta_valid_freq: 50
+
+host: "xxx"
+user: "xxx"
+pwd: "xxx"
+db: "xxx"
+
+use_mysql: False
